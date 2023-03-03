@@ -1,2 +1,2 @@
-# PrepCourseReadMe
-Este repositorio es del modulo 2 del prepourse de Henry
+Este repositoio es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
+
